@@ -1,0 +1,51 @@
+#centerdiv {
+	display: grid;
+	place-items: center;
+}
+
+#antwortdiv {
+	width: 60%;
+	min-height: 100px;
+	border: 1px solid black;
+	font-size: 20px;
+}
+p {
+	font-size: 1.6em;
+}
+
+textarea {
+	font-size: 20px;
+	width: 60%;
+	
+}
+
+#buttonalign {
+	margin-top: 10px;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+}
+.black-button {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.black-button:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+#backbutton {
+	float:left;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+#forwardbutton {
+	float:right;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}

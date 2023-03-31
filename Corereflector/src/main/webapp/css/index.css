@@ -1,0 +1,48 @@
+
+#mainbox{
+	padding-top:10px;
+	text-align: center;
+	margin-top:70px;
+	width: 80%;
+	margin-left: 10%;
+}
+
+#box1 {
+	padding-top: 10px;
+	width: 80%;
+	margin-left: 10%;
+}
+
+#box2 {
+	padding-top: 10px;
+	width: 80%;
+	margin-left: 10%;
+	text-align: center;
+}
+
+p {
+	font-size: 1.6em;
+}
+
+#liste {
+	font-size: 1.4em;
+}
+#box3 {
+	padding-top:10px;
+	text-align: center;
+}
+
+.black-button {
+  background-color: black;
+  color: white;
+  padding: 15px 25px;
+  border: none;
+  border-radius: 5px;
+  font-size: 25px;
+}
+
+.black-button:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}

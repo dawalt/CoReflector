@@ -1,0 +1,90 @@
+#mainbox {
+	padding-top:10px;
+	text-align: center;
+	margin-top:20px;
+	width: 80%;
+	margin-left: 10%;
+	}
+	
+#begruendungText {
+	margin-left: 1px;
+	font-size: 18px;
+	width: auto;
+}
+	
+#tdtext {
+	text-align: left;
+}	
+	
+table {
+  border-collapse: collapse;
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  border: #323232 solid;
+  border-width: 3px; 
+  color: #323232;
+  
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 6px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+#h1q {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  color: #323232;
+}
+input[type=radio] {
+  transform: scale(1.5);
+  margin: 0 5px;
+}
+
+textarea {
+	width: 60%;
+	margin-left: 20%;
+  border: #323232 solid;
+  border-width: 3px;
+}
+p {
+	font-size: 1.3em;
+}
+#buttonalign {
+	margin-top: 10px;
+	text-align: center;
+}
+.black-button {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.black-button:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+
+#backbutton {
+	float:left;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+#forwardbutton {
+	float:right;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}

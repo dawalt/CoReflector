@@ -1,0 +1,71 @@
+#maindiv {
+	display: grid;
+	place-items:center;
+}
+
+p {
+	font-size: 1.3em;
+	text-align: left;
+}
+
+#antwortdiv {
+	margin-top: -20px;
+	width: 100%;
+	min-height: 70px;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	font-size: 20px;
+}
+
+textarea {
+	margin-top: -20px;
+	font-size:20px;
+	width: 96%;
+	margin-left: 2%;
+	
+	}
+
+#buttonalign {
+	margin-top: 10px;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+}
+.black-button {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.black-button:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+#backbutton {
+	float:left;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+#forwardbutton {
+	float:right;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+
+#umrandung {
+	border: 1px solid black;	
+	width: 50%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+summary {
+	font-weight: bold;
+  font-size: 25px; /* ändert die Schriftgröße der Zusammenfassung */
+  cursor: pointer; /* stellt sicher, dass der Text anklickbar ist */
+}
+

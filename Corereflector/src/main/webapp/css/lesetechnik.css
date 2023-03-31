@@ -1,0 +1,53 @@
+#mainbox {
+	padding-top:10px;
+	text-align: center;
+	margin-top:20px;
+	width: 70%;
+	margin-left: 15%;
+	
+	}
+	
+p {
+	font-size: 1.3em;
+	text-align: left;
+}
+
+
+ol {
+	text-align: left;
+}
+
+
+#buttonalign {
+	margin-top: 10px;
+	text-align: center;
+}
+.black-button {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.black-button:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+#backbutton {
+	float:left;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+#forwardbutton {
+	float:right;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+
+
+#listp {
+	text-align: left;
+}
